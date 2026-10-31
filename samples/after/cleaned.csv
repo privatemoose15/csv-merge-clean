@@ -1,0 +1,10 @@
+first_name,last_name,email,phone,signup_date,plan,source_file
+Sarah,Jones,sarah.jones@example.com,07700 900123,2024-03-05,Pro,crm_export_old.csv
+José,García,jose.garcia@example.com,07700 900987,2024-03-07,Basic,crm_export_old.csv
+Tom,Baker,tom.baker@example.com,07700 900456,2024-03-12,Basic,crm_export_old.csv
+Zoë,Adams,zoe.adams@example.com,07700 900111,2024-03-20,Team,crm_export_old.csv
+Priya,Shah,priya.shah@example.com,07700 900789,2024-03-14,Pro,shop_customers.xlsx
+Grace,Kim,grace.kim@example.com,07700 900654,2024-03-18,Team,shop_customers.xlsx
+Ahmed,Hassan,ahmed.hassan@example.com,07700 900222,2024-03-22,Pro,shop_customers.xlsx
+Chloe,Evans,chloe.evans@example.com,07700 900333,2024-03-25,Basic,shop_customers.xlsx
+Liam,O'Neill,liam.oneill@example.com,07700 900321,TBC,Basic,signups_website.csv
